@@ -14,4 +14,4 @@ you have to change followiong rows in docker-compose.yaml file:
 
 now you can run command: "docker compose up -d" (or "sudo docker compose up -d" command if your user doesn't have root permissions
 
-in your browser you can open: https://yourdomain.it
+in your browser you can open: https://techandfinance.it (fill your browser address bar with your domain name url)
